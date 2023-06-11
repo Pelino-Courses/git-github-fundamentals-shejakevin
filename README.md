@@ -2,7 +2,9 @@
 # :wave: The Basics of GitHub 
 
 Name:Sheja kevin
+
 Regno:220006864
+
 Department: Computer Science
 
 ## 🤓 Course overview and learning outcomes 
